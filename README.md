@@ -35,7 +35,7 @@ This tutorial picks up where we left off in the previous section where we create
 </p>
 
 <p>
-In order to access osTicket as an administrator, browse to the following URL: http://localhost/osTicket/scp/index.php
+In order to access osTicket as an administrator, browse to the following URL: http:/localhost/osTicket/scp/index.php
 </p>
 <p>
 You will be prompted to enter a Username and Password. These are the values we entered during the initial osTicket Installation setup.
