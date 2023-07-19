@@ -218,28 +218,52 @@ Severity B SLA. This would correspond to tickets created for less urgent tickets
 <img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/6ec2165d-13e2-4da9-8b5f-c04308356154"/>
 </p>
 
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-
-
-
-
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Severity C SLA. This level would correspond to non-urgent tickets that are expected to be resolved during normal business hours with a grace period of 8 hours.
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/415eed84-f41f-423b-bf97-9976a8cf0c37)"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- Help Desk Topics:
+</p>
+
+<p>
+Next, we will create a few common categories of issues that may come up in the day-to-day operations of a Help Desk, as a manner of example. For the purposes of this tutorial, these categories are not meant to be a complete or exhaustive list of all possible issues that may be encountered as a Help Desk professional. I have created the following categories of Help Topics:
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+</p>
+
+<p>
+ Manage → Help Topics → Add New Topic 
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/0f22e015-4081-4147-925b-0e5820cd68ee)"/>
+</p>
+<br />
+
+<p>
+- End Users: 
+</p>
+
+<p>
+These can be created from the Agent Panel, and are the end users or customers who will be serviced by the Help Desk for which we are creating the Ticket System. You can create as many as needed. I have created just a couple of made up users for the purposes of this tutorial. 
+</p>
+
+<p>
+ On the Agent Panel, go to Users → Add New User
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/6ee24699-ce8d-46d3-819c-5dfcc3614e06"/>  
 </p>
 <br />
