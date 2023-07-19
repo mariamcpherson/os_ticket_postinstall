@@ -126,20 +126,33 @@ Now, let's create a team. This would allow us to assign different agents to that
 In this tutorial, I created a team named "Level II Support." Agents tab → Teams → Add New Team
 </p>
 
-
 <p>
 <img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/ee9996f7-83a4-4801-b16e-95aec8550795"/>
+</p>
+<br />
+
+
 <p>
+*Before we proceed to create Agents, we need to determine who can create new tickets in our system, for the sake of this tutorial, we'll allow anyone to create tickets with registration required.
+</p>
+
 <p>
+Settings → Users → Authentication → Settings
+</p>
 <p>
+We will check "Require registration and login to create tickets", and select "Public Access"
+</p>
+
+
 <p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/295351ba-e7e2-43ad-b86e-f35b8c26daf3"/>
+</p>
+<br />
+
+
 <p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
+- Agents:
+</p>
 <p>
 <p>
 <p>
