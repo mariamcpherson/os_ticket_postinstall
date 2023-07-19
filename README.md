@@ -183,8 +183,12 @@ On the Access tab, you can assign the Primary Department each Agent will be unde
 <p>
 <img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/d2fbace9-8311-48c5-a5bf-1721d28f494e"/>
 </p>
+<br />
+
+
 <p>
-<p>
+- Configure Service Level Agreement:
+</p>
 <p>
 <p>
 <p>
