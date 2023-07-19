@@ -205,17 +205,19 @@ In this tutorial, we will create 3 different types of SLAs for three different l
 Severity A SLA. This would correspond to tickets created for urgent or severe issues that would significantly impact the end user's business. For this reason the schedule to resolve tickets within this SLA would be 24/7, and the grace period would be only 1 hour. 
 </p>
 
-
 <p>
-<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/584919eb-749e-442a-9f1b-1734790ca11b"/>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/6ea79e36-0f9a-4345-9ab2-1f6b4936c8bd"/>
 </p>
 
 
 <p>
-Severity B SLA. This would correspond to tickets created for less urgent tickets that the Administrator
+Severity B SLA. This would correspond to tickets created for less urgent tickets and the Administrator expects to be worked on around the clock, but with a longer grace period of 4 hours.
+</p>
+
 <p>
-<p>
-<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/6ec2165d-13e2-4da9-8b5f-c04308356154"/>
+</p>
+
 <p>
 <p>
 <p>
