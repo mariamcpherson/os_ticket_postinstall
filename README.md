@@ -98,14 +98,52 @@ Under the Tasks and Knowledgebase tabs, check all options as well.
 <p>
 <img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/f866a0e0-7fa5-4119-9c7f-f0d37828e4b0"/>
 </p>
+<br />
+
 
 <p>
+- Departments:
+</p>
+
+<p>
+Let's create a New Department named "System Administrators." Agents tab → Departments → Add New Department
+</p>
+
+
+<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/4dc6e080-5f50-4397-986c-b4b38920dbb1"/>
+</p>
+<br />
+
+<p>
+- Teams:
+</p>
+
+<p>
+Now, let's create a team. This would allow us to assign different agents to that particular team with different accesses and permissions to different features, and to assign tickets to a whole team. 
+</p>
+<p>
+In this tutorial, I created a team named "Level II Support." Agents tab → Teams → Add New Team
+</p>
+
+
+<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/ee9996f7-83a4-4801-b16e-95aec8550795"/>
 <p>
 <p>
 <p>
 <p>
 <p>
 <p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+
 
 
 <p>
