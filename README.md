@@ -72,6 +72,41 @@ On the Agents tab → Roles → Add New Role.
 <img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/a2f845c9-21ea-4fb6-9478-2783aa6f5a05"/>
 </p>
 
+<p>
+Now, let's assign permissions to this new role we have created. And, remember, we want this Admin to be able to have "full control" of the Ticketing System. 
+</p>
+<p>
+On the Permission tabs, under Tickets, check all options.
+</p>
+  
+<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/70bff473-ae92-45b8-815e-9954f8c5c018"/>
+</p>
+
+
+<p>
+Under the Tasks and Knowledgebase tabs, check all options as well.
+</p>
+
+
+<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/65fbb1c7-8263-43bd-8b1c-fd973d60d0fe"/>
+</p>
+
+
+
+<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/f866a0e0-7fa5-4119-9c7f-f0d37828e4b0"/>
+</p>
+
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
