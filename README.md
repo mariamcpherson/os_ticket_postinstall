@@ -187,11 +187,44 @@ On the Access tab, you can assign the Primary Department each Agent will be unde
 
 
 <p>
-- Configure Service Level Agreement:
+- Configure Service Level Agreement (SLA):
+</p>
+
+<p>
+In this section, different types of SLAs can be configured, according to the severity of the issue for which the ticket was created, and the target time in which the Help Desk Administrator expects them to be resolved.
+</p>
+
+<p>
+Manage → SLA → Add New SLA 
+</p>
+
+<p>
+In this tutorial, we will create 3 different types of SLAs for three different levels of severity:
 </p>
 <p>
+Severity A SLA. This would correspond to tickets created for urgent or severe issues that would significantly impact the end user's business. For this reason the schedule to resolve tickets within this SLA would be 24/7, and the grace period would be only 1 hour. 
+</p>
+
+
+<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/584919eb-749e-442a-9f1b-1734790ca11b"/>
+</p>
+
+
+<p>
+Severity B SLA. This would correspond to tickets created for less urgent tickets that the Administrator
 <p>
 <p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+
 
 
 
