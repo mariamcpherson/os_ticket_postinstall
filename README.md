@@ -153,9 +153,42 @@ We will check "Require registration and login to create tickets", and select "Pu
 <p>
 - Agents:
 </p>
+
+<p>
+Next, we will be creating Agents that will work under a specific Department/Team. I used made up names and random values as with the rest of the tutorial. 
+</p>
+
+<p>
+Agents → Add New Agents
+</p>
+
+
+<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/19047a95-7610-4380-8241-fbe876091533"/>
+</p>
+
+<p>
+Click on "Set Password" in order to assign credentials to the agent. 
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/72ab65e5-e1d1-4eef-a76a-67f5c6a5b350"/>
+</p>
+
+
+<p>
+On the Access tab, you can assign the Primary Department each Agent will be under, and the type of access.
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_ticket_postinstall/assets/139581822/d2fbace9-8311-48c5-a5bf-1721d28f494e"/>
+</p>
 <p>
 <p>
 <p>
+<p>
+<p>
+
 
 
 
